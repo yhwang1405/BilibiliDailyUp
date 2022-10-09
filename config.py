@@ -26,11 +26,11 @@ UID_LIST = ['473837611', '1131457022', '433587902', '2026561407', '50329118']
 # 获取UID的方法见README.md
 # 新华网 人民日报 央视频  王冰冰 英雄联盟赛事
 
-COOKIE_LIST = ['']
+COOKIE_LIST = ['15588917']
 # Bilibili的COOKIE获取的方法见README.md
 # 支持多账号，需要多账号请在列表中添加多个COOKIE
 
-PUSH_OR_NOT = False
+PUSH_OR_NOT = True
 # 是否推送消息
-TOKEN = ''
+TOKEN = 'f9c6fe4316b947e48d170f7111c64d9a'
 # PUSH PLUS的TOKEN 官网为 https://www.pushplus.plus
